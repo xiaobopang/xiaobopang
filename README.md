@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 I'm pangxiaobo - a PHP developer, and Open source contributor.
 
 
-<details>
+<!--<details>
 <summary>About Open Source </summary>
 
 ## My main projects:
 
 - [go_init](https://github.com/xiaobopang/go_init) - 🚀 一个基于gin搭建的一个包含gorm, goredis,rabbitmq,websocket等操作相关操作的项目结构
 
-</details>
+</details> -->
