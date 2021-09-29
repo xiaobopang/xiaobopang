@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xiaobopang/xiaobopang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,9 +24,6 @@ I'm pangxiaobo - a PHP developer, and Open source contributor.
 
 <!--<details>
 <summary>About Open Source </summary>
-
-## My main projects:
-
-- [go_init](https://github.com/xiaobopang/go_init) - 🚀 一个基于gin搭建的一个包含gorm, goredis,rabbitmq,websocket等操作相关操作的项目结构
+ something to this body...
 
 </details> -->
