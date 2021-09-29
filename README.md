@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎉 Welcome to my GitHub profile!
 
-I'm pangxiaobo - a PHP developer, and Open source contributor.
+I'm Pangxiaobo - a PHP developer, and Open source contributor.
 
 
 <!--<details>
