@@ -24,14 +24,6 @@ Here are some ideas to get you started:
 📫 How to reach me: 10846295@qq.com
 
 
-<details>
-<summary>😎 View my contributions in 3D</summary>
-
-![](https://raw.githubusercontent.com/xiaobopang/xiaobopang/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/xiaobopang/xiaobopang/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
-
-</details>
-
 <!--
 ( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
 -->
