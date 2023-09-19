@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <details>
 <summary>😎 View my contributions in 3D</summary>
 
-![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/xiaobopang/xiaobopang/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/xiaobopang/xiaobopang/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
 
 </details>
 
