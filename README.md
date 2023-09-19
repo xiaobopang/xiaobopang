@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+
+🎉 Welcome to my GitHub profile, it's great to meet you here!
+
+👨🏻‍💻 I am a php developer, and sometimes I also use java and golang to develop some projects.
+
+📫 How to reach me: 10846295@qq.com
+
+
+<details>
+<summary>😎 View my contributions in 3D</summary>
+
+![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+</details>
+
+<!--
+( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
+-->
+
